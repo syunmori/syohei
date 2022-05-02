@@ -32,3 +32,6 @@ a {
   float: right;
   margin-right: -25px;
 }    
+
+.container h1 {
+  border-bottom: 1px solid #dee7ec
